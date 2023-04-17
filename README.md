@@ -9,7 +9,9 @@ I've been learning to code for the past year. Started with HTML, but constantly 
 *   🌍  I'm based in Mombasa, Kenya
 *   ✉️  You can contact me at [f.kinuthia01@gmail.com](mailto:f.kinuthia01@gmail.com)
 *   🧠  I'm learning PHP, Django for Python
-*   ⚡  I'm Batman on nights, lol!### Skills 
+*   ⚡  I'm Batman on nights, lol!
+
+*   ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
